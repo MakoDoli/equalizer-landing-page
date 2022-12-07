@@ -1,0 +1,130 @@
+@media screen and (max-width: 770px) {
+  html {
+    box-sizing: border-box;
+  }
+  body {
+    background-position-y: -60%;
+    background-size: 140vw 190vw;
+    background-repeat: no-repeat;
+  }
+  h1 {
+    font-weight: 700;
+    font-size: 8.3116vw;
+    line-height: 8.3116vw;
+    margin-bottom: 3.6363vw;
+  }
+  h2 {
+    font-size: 4.1558vw;
+    line-height: 5.1948vw;
+  }
+  main {
+    width: 90.3896vw;
+  }
+  .header-image {
+    height: 45.4545vw;
+    width: 25.974vw;
+  }
+  .heading {
+    width: 67.5324vw;
+    margin-top: 8.3116vw;
+    height: 24.935vw;
+  }
+  .text-1 {
+    font-size: 2.3376vw;
+    line-height: 3.6363vw;
+    width: 66.753vw;
+    height: 14.5454vw;
+    margin-bottom: 32.4675vw;
+  }
+  .desktop-black {
+    height: 77.922vw;
+  }
+  .circles-2 {
+    width: 33vw;
+    height: 50.5vw;
+    left: 33vw;
+    top: -2.3376vw;
+    position: absolute;
+  }
+  .phone {
+    left: 8.3116vwvw;
+    width: 35.0649vw;
+    height: 72.2077vw;
+    position: absolute;
+    bottom: 23.6363vw;
+  }
+  .premium {
+    width: 45.4545vw;
+    height: 67.013vw;
+    position: relative;
+    border-radius: 1.5584vw;
+    left: 31.038vw;
+    top: 19.4805vw;
+    display: flex;
+    flex-direction: column;
+    padding-left: 6.2337vw;
+  }
+  .text-2 {
+    font-size: 2.3376vw;
+    line-height: 3.6363vw;
+    width: 39.22vw;
+    height: 18.1818vw;
+    margin-bottom: 6.234vw;
+  }
+  .number {
+    font-size: 8.4415vw;
+    line-height: 6.753vw;
+    margin-top: 4.6753vw;
+  }
+  .month {
+    left: 19.4805vw;
+    top: 37.013vw;
+  }
+  .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 38.4415vw;
+    height: 7.792vw;
+    border-radius: 1.5584vw;
+    font-size: 2.3376vw;
+    line-height: 4.1558vw;
+  }
+  .mob-logo {
+    margin-right: 1.038vw;
+  }
+  .button-2 {
+    margin-top: 2.078vw;
+  }
+  .button-1 {
+    margin-top: 4.1558vw;
+  }
+  .last {
+    width: 100%;
+    flex-direction: column;
+    position: relative;
+    height: 25.974vw;
+  }
+  .last-text {
+    width: 47.5324vw;
+    height: 10.389vw;
+
+    font-size: 2.078vw;
+    line-height: 3.3766vw;
+    margin-bottom: 10.389vw;
+  }
+  .desktop-logo {
+    margin-bottom: 4.1558vw;
+  }
+  .icons {
+    position: absolute;
+    left: 72.2077vw;
+    width: 12.987vw;
+    bottom: 12.987vw;
+  }
+}
+
+/* ---------------------
+-----------------------------------
+---------------------------------
+--------------------------------------- */

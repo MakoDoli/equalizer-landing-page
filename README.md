@@ -5,3 +5,5 @@
 ## Welcome! 👋
 
 Thanks for checking this Frontend Mentor coding challenge.
+
+Live url: https://makodoli.github.io/equalizer-landing-page/
